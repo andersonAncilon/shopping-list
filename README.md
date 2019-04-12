@@ -1,6 +1,6 @@
-#A simple shopping list builded using React Hooks.
+# A simple shopping list builded using React Hooks.
 
-##Hooks used:
-###useState();
-###useEffect();
-###useReducer();
+## Hooks used:
+### useState();
+### useEffect();
+### useReducer();
